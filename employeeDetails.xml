@@ -1,6 +1,14 @@
-<?xml version="1.0"?>
-<employee id="123" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="employeeSchema.xsd">
-    <name>ABC</name>
-    <department>CSE</department>
-    <salary>110000</salary>
-</employee>
+<head>
+    <employee id="101" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="employeeSchema.xsd">
+        <name>Shoeb</name>
+        <department>CSE</department>
+        <salary>110000</salary>
+        <doj>18-04-2021</doj>
+    </employee>
+    <employee id="102" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="employeeSchema.xsd">
+        <name>ABC</name>
+        <department>CSE</department>
+        <salary>120000</salary>
+        <doj>18-04-2021</doj>
+    </employee>
+</head>
